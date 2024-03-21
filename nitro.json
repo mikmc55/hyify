@@ -1,8 +1,8 @@
 {
   "date": "2024-03-21T04:51:56.329Z",
-  "preset": "node-server",
+  "preset": "zeabur",
   "framework": {
-    "name": "nitro",
+    "name": "hyify",
     "version": "2.9.3"
   },
   "versions": {
